@@ -1,6 +1,5 @@
 # side-panels
 
-> A test for gapstars -  client Temper
 
 ## Build Setup
 
